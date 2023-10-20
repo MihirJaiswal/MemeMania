@@ -1,1 +1,1 @@
-# MemeMania
+# basic javascript projects
